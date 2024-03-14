@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "Svgl",
-  "short_name": "Svgl",
-  "description": "A beautiful library with SVG logos",
+  "name": "Collge Logo",
+  "short_name": "College Logo",
+  "description": "A diverse collection of college logos",
   "icons": [
     {
       "src": "/images/icons/icon-192x192.png",

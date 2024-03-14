@@ -93,7 +93,7 @@
 </script>
 
 <svelte:head>
-  <title>A beautiful library with SVG logos - Svgl</title>
+  <title>College Logo | A diverse collection of college logos</title>
 </svelte:head>
 
 <Search
