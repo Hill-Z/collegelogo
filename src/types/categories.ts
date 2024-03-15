@@ -6,4 +6,8 @@ export type tCategory =
   | 'Australia'
   | 'India'
   | 'Türkiye'
+  | 'Sweden'
+  | 'Finland'
+  | 'Iran'
+  | 'China'
   | 'Canada';
