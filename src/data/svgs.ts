@@ -301,4 +301,58 @@ export const svgs: iSVG[] = [
     route: '/library/graceland-university-logo.svg',
     url: 'https://www.graceland.edu/'
   },
+  {
+    title: 'City University of London',
+    category: 'United Kingdom',
+    route: '/library/city-university-of-london-logo.svg',
+    url: 'https://www.city.ac.uk/'
+  },
+  {
+    title: 'University Of Delaware',
+    category: 'United States',
+    route: '/library/university-of-delaware-logo.svg',
+    url: 'https://www.udel.edu/'
+  },
+  {
+    title: 'Umea University',
+    category: 'Sweden',
+    route: '/library/umea-university-logo.svg',
+    url: 'https://www.umu.se/en/'
+  },
+  {
+    title: 'Staffordshire University',
+    category: 'United Kingdom',
+    route: '/library/staffordshire-university-logo.svg',
+    url: 'https://www.staffs.ac.uk/'
+  },
+  {
+    title: 'Bucknell University',
+    category: 'United States',
+    route: '/library/bucknell-university-logo.svg',
+    url: 'https://www.bucknell.edu/'
+  },
+  {
+    title: 'Sullivan University',
+    category: 'United States',
+    route: '/library/sullivan-university-logo.svg',
+    url: 'https://www.sullivan.edu/'
+  },
+  {
+    title: 'MIT-Massachusetts Institute of Technology',
+    category: 'United States',
+    route: '/library/MIT-massachusetts-institute-of-technology-logo.svg',
+    url: 'https://www.mit.edu/'
+  },
+  {
+    title: 'Stanford University',
+    category: 'United States',
+    route: '/library/stanford-university-logo.svg',
+    url: 'https://www.stanford.edu/'
+  },
+  {
+    title: 'University of California Berkeley (UCB)',
+    category: 'United States',
+    route: '/library/university-of-california-berkeley-logo.svg',
+    url: 'https://www.berkeley.edu/'
+  },
 ];
