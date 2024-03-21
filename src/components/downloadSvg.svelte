@@ -86,7 +86,7 @@
 
 {#if typeof svgInfo.route === 'string' && svgInfo.wordmark === undefined}
   <button
-    title="Download Light & Dark variants"
+    title="Download College Logo"
     class={mainDownloadStyles}
     on:click={() => {
       if (typeof svgInfo.route === 'string') {

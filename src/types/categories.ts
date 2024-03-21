@@ -10,4 +10,8 @@ export type tCategory =
   | 'Finland'
   | 'Iran'
   | 'China'
-  | 'Canada';
+  | 'Canada'
+  | 'Seal Logo'
+  | 'Symbolic Logo'
+  | 'Wordmark Logo'
+  | 'Combination Logo';

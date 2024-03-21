@@ -239,7 +239,7 @@
         }}
       />
 
-      <a
+      <!-- <a
         href={svgInfo.url}
         title="Website"
         target="_blank"
@@ -247,7 +247,7 @@
         class="flex items-center space-x-2 rounded-md p-2 duration-100 hover:bg-neutral-200 dark:hover:bg-neutral-700/40"
       >
         <LinkIcon size={iconSize} strokeWidth={iconStroke} />
-      </a>
+      </a> -->
       {#if svgInfo.wordmark !== undefined}
         <button
           title={wordmarkSvg ? 'Show logo SVG' : 'Show wordmark SVG'}

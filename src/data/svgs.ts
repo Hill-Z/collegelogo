@@ -1,12 +1,20 @@
 import type { iSVG } from '../types/svg';
 
 export const svgs: iSVG[] = [
+// United States
   {
     title: 'Harvard University',
-    category: 'United States',
+    category: ['United States','Symbolic Logo'],
     route: '/library/harvard-university-logo.svg',
     url: 'https://www.harvard.edu/'
   },
+  {
+    title: '',
+    category: 'United States',
+    route: '/library/',
+    url: ''
+  },
+// United States
   {
     title: 'Queen\'s University',
     category: 'Canada',
